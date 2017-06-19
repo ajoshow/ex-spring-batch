@@ -27,3 +27,4 @@ out/
 gradle/
 gradlew
 gradlew.bat
+classes/
